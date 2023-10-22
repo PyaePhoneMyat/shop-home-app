@@ -1,0 +1,10 @@
+.total {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.totalText {
+  font-size: 2rem;
+}
